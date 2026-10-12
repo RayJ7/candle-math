@@ -1,0 +1,5 @@
+wax_based_pct,total_based_pct,oil_g_for_200g_finished_mixture,formula
+6,5.6604,11.32,total = 100 * r / (1 + r); r = 0.06
+8,7.4074,14.81,total = 100 * r / (1 + r); r = 0.08
+10,9.0909,18.18,total = 100 * r / (1 + r); r = 0.10
+12,10.7143,21.43,total = 100 * r / (1 + r); r = 0.12

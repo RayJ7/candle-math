@@ -1,0 +1,7 @@
+quantity,from_unit,to_unit,factor,notes,source
+mass,oz (weight),g,28.349523125,Avoirdupois ounce. Note: a mass ounce and a fluid ounce are different quantities.,https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8
+mass,lb,g,453.59237,1 lb = 16 oz,https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8
+mass,kg,g,1000,SI base unit relation,https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8
+volume,US fl oz,mL,29.5735295625,"1 US fl oz = 231/128 cubic inches; 1 inch = 2.54 cm",https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8
+volume,L,mL,1000,SI relation,https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8
+volume,US gal,mL,3785.411784,1 US gal = 128 US fl oz,https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8
