@@ -54,6 +54,12 @@ cd python && python -m unittest -v
 - **Weights are arithmetic.** This is a calculation reference, not a validated candle recipe. Wick choice, burn behavior and safety need their own testing.
 - Amounts are shown rounded to two decimals for display; calculations keep full precision.
 
+## Limitations
+
+This repository performs mass-balance and cost arithmetic. It does not validate candle recipes, determine a safe fragrance load or wick size, predict scent throw or burn time, or replace supplier instructions, IFRA documentation, or physical burn testing. Hypothetical examples are calculation inputs, not measured results or production recommendations.
+
+Supplier reference values apply only to their cited products and documents; missing values remain unknown. The data is not a universal water-to-wax density conversion. Cost outputs use the rates and sellable-unit counts provided by the caller and do not establish market prices or guarantee profit.
+
 ## Data & sources
 
 Reference rows cite the exact supplier documents they were compiled from (SDS sheets, product pages, handling sheets), including which values are *not* published. Unit factors follow NIST SP 811 Appendix B.8. Compiled October 2026; always check the current supplier document before production.
